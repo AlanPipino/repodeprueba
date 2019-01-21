@@ -1,5 +1,6 @@
 {
-    "count": 1,
+    "visualizacion":{
+        "count": 1,
     "total_statuses": [
         {
             "type": "status",
@@ -61,4 +62,5 @@
             "is_private": false
         }
     ]
+}
 }
